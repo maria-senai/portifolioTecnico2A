@@ -5,3 +5,6 @@
 <b> Teste </b>
 <i> teste </i>
 teste
+* teste
+* oi
+* maria
