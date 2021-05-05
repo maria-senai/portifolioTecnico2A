@@ -3,3 +3,5 @@
 ### titulo
 
 <b> Teste </b>
+<i> teste </i>
+teste
